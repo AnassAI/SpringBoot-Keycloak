@@ -11,15 +11,6 @@
 ### Role Configuration
 <img src="Pics/ROLE.png">
 
-### Registered User
-<img src="Pics/USERENREGISTRE.png">
-
-### Add New Feature
-<img src="Pics/addnewf.png">
-
-### OTP Verification
-<img src="Pics/OTP.png">
-
 ### Retrieve Access Token via Client Secret
 <img src="Pics/accestoken.png">
 
@@ -47,5 +38,4 @@ For the product page, only an authenticated user with the role Admin can access.
 <img src="Pics/user1roleuser.png">
 
 ## User with ADMIN Role
-
 <img src="Pics/user2prod.png">

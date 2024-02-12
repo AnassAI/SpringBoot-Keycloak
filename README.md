@@ -47,4 +47,5 @@ For the product page, only an authenticated user with the role Admin can access.
 <img src="Pics/user1roleuser.png">
 
 ## User with ADMIN Role
+
 <img src="Pics/user2prod.png">
